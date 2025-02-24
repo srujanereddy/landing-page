@@ -164,6 +164,10 @@
     gap: 20px;
 }
 
+.hero-right{
+    display: flex;
+}
+
 .hero-text{
     font-size: 48px;
     font-weight: 900;
@@ -173,6 +177,7 @@
 .hero img{
     height: 200px;
     width: 400px;
+    margin: 1px solid white;
     background-color: rgba(77, 77, 77, 0.445);
 }
 
